@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "STM32G051F8Y6TR")(type "KiCad")(uri "D:/Programy/KiCad/my_libs/STM32G051F8Y6TR.pretty")(options "")(descr ""))
+  (lib (name "Package_CSP")(type "KiCad")(uri "D:/Programy/KiCad/my_libs/Package_CSP.pretty")(options "")(descr ""))
+)

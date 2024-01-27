@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Capacitor_tantalum_arduino")(type "Legacy")(uri "D:/Programy/KiCad/my_libs/Capacitor_tantalum_arduino/Capacitor_tantalum_arduino.lib")(options "")(descr ""))
+  (lib (name "STM32G030K8T6")(type "Legacy")(uri "D:/Programy/KiCad/my_libs/STM32G030K8T6/STM32G030K8T6.lib")(options "")(descr ""))
+)

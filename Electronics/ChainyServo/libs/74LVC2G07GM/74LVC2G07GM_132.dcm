@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 74LVC2G07GM,132
+D 74LVC2G07 - Buffers with open-drain outputs@en-us
+K
+F https://assets.nexperia.com/documents/data-sheet/74LVC2G07.pdf
+$ENDCMP
+#
+#End Doc Library
